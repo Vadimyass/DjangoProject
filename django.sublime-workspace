@@ -1,0 +1,412 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"get_name"
+			],
+			[
+				"a",
+				"Age_was_choosen_right"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"tr",
+				"try\tTry/Except"
+			],
+			[
+				"s",
+				"surname"
+			],
+			[
+				"re",
+				"register_next_step_handler"
+			],
+			[
+				"if",
+				"if\tIf Condition"
+			],
+			[
+				"f",
+				"from_user"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"l",
+				"l"
+			],
+			[
+				"c",
+				"config"
+			],
+			[
+				"ke",
+				"key1"
+			],
+			[
+				"se",
+				"section1"
+			],
+			[
+				"key",
+				"key2"
+			],
+			[
+				"B",
+				"build_config"
+			],
+			[
+				"paw",
+				"password"
+			],
+			[
+				"pa",
+				"password_elem"
+			],
+			[
+				"cl",
+				"click"
+			],
+			[
+				"use",
+				"user_name_elem"
+			],
+			[
+				"logi",
+				"login_button"
+			],
+			[
+				"i",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"text-",
+				"text-align\tproperty"
+			],
+			[
+				"text",
+				"text-transform\tproperty"
+			],
+			[
+				"background",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"b",
+				"inline-block\tdisplay"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"head",
+				"header"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"font-",
+				"font-size\tproperty"
+			],
+			[
+				"Ba",
+				"BASE_DIR"
+			],
+			[
+				"soc",
+				"social_view"
+			],
+			[
+				"ab",
+				"about_view"
+			],
+			[
+				"conta",
+				"contact_view"
+			],
+			[
+				"url",
+				"url"
+			],
+			[
+				"de",
+				"default"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/D/project/Bot.py",
+			"settings":
+			{
+				"buffer_size": 2258,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+			"python manage.py makemigrations"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/D/project/Bot.py",
+		"/D/project/InstagramBot.py",
+		"/D/project/ComputerSight.py",
+		"/D/project/To-Do App/Core.py",
+		"/D/CreatorKivyProject-master/main.py",
+		"/C/Python37/Lib/turtle.py",
+		"/C/Python37/Lib/uu.py",
+		"/D/project/my first site/assets/css/custom.css",
+		"/D/project/my first site/index.html",
+		"/D/project/Bike Sport/html/css/custom.css",
+		"/D/project/Bike Sport/html/index.html",
+		"/D/project/my first site/styles/css/custom.css",
+		"/D/project/index.html",
+		"/C/Users/Vadim/Downloads/Bike Sport.txt",
+		"/C/Users/Vadim/Downloads/3459_Bike_Sport.zip",
+		"/D/untitled/templates/social.html",
+		"/D/untitled/templates/contact.html",
+		"/D/untitled/templates/about.html",
+		"/D/untitled/templates/base.html",
+		"/D/untitled/templates/landing.html",
+		"/D/untitled/untitled/settings.py",
+		"/D/untitled/landing/views.py",
+		"/D/untitled/templates/kfkjsf.html",
+		"/D/untitled/untitled/urls.py",
+		"/D/untitled/products/views.py",
+		"/D/untitled/landing/models.py",
+		"/D/untitled/landing/admin.py",
+		"/D/untitled/landing/__init__.py",
+		"/F/data2.bin",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Windows/System32/drivers/etc/hosts.ics",
+		"/D/untitled/untitled/wsgi.py",
+		"/D/untitled/manage.py"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+			"D:\\untitled\\templates"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"send_message",
+			"\n\t\t\t",
+			")",
+			"send_message",
+			"<a href=\"#\">Blog</a>",
+			"header",
+			"about.html"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/D/project/Bot.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2258,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1636,
+								1636
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 411.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "django.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
